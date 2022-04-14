@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<br>
 
 <!-- Visitor's count -->
 <h4 align="center">Visitor's count 👀</h4>
@@ -12,7 +11,7 @@
 
 <!-- Profile views -->
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=nrhsya&label=Profile%20views&color=0e75b6&style=plastic" alt="nrhsya" /> 
+	<img src="https://komarev.com/ghpvc/?username=nrhsya&style=for-the-badge" alt="nrhsya" /> 
 </p>
 
 
