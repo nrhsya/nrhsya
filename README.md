@@ -16,7 +16,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `3rd Year Software Engineering` student at Faculty of Computing of University Malaysia Pahang
+- :school: I am a `4th Year Software Engineering` student at Faculty of Computing of University Malaysia Pahang
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I love web development and I am especially interested in `Laravel Frameworks`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
@@ -38,10 +38,6 @@
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
