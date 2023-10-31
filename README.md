@@ -16,7 +16,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `4th Year Software Engineering` student at Faculty of Computing of University Malaysia Pahang
+- :school: I am a `Fresh Graduate` of University Malaysia Pahang Al-Sultan Abdullah
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I love web development and I am especially interested in `Laravel Frameworks`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
