@@ -19,8 +19,8 @@
 - :school: I am a `Fresh Graduate` of University Malaysia Pahang Al-Sultan Abdullah
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I love web development and I am especially interested in `Laravel Frameworks`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
+<!-- - :student: I’m currently learning: `Computer Science` and `Software Engineering`. -->
+<!-- - :thinking: I’m currently open for: `An Intern` or a new `job opportunity` -->
 <!-- this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
 - :nerd_face: Always `learning new things`
 
