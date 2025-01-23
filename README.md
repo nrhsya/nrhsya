@@ -60,7 +60,8 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
+  </a>
+  &emsp;
   <a href="https://alpinejs.dev/" target="_blank">
     <img alt="Alpine JS" src="https://img.shields.io/badge/AlpineJS%20-%231572B6.svg?style=plastic&logo=alpinedotjs&logoColor=white">
   </a>
@@ -70,19 +71,19 @@
 <p align="center"> 
   &emsp; 
   <a href="https://laravel.com/" target="_blank"> 
-   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red">
+   <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF0000.svg?style=plastic&logo=laravel&logoColor=white">
   </a>   
   &emsp;
   <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23800080.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a> 
   &emsp;
   <a href="https://livewire.laravel.com/" target="_blank">
-    <img alt="Livewire" src="https://img.shields.io/badge/-Laravel Livewire-purple">
+    <img alt="Livewire" src="https://img.shields.io/badge/Livewire%20-%23FFC0CB.svg?style=plastic&logo=livewire&logoColor=white">
   </a> 
   &emsp;
   <a href="https://filamentphp.com/" target="_blank">
-    <img alt="Filament" src="https://img.shields.io/badge/-Filament PHP-purple">
+    <img alt="Filament" src="https://img.shields.io/badge/FilamentPHP%20-%23FFFF00.svg?style=plastic&logo=filament&logoColor=black">
   </a> 
 </p>
 
