@@ -16,7 +16,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Fresh Graduate` of University Malaysia Pahang Al-Sultan Abdullah
+- :school: I am a graduate of University Malaysia Pahang Al-Sultan Abdullah
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I love web development and I am especially interested in `Laravel Frameworks`
 <!-- - :student: I’m currently learning: `Computer Science` and `Software Engineering`. -->
@@ -61,6 +61,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+  <a href="https://alpinejs.dev/" target="_blank">
+    <img alt="Alpine JS" src="https://img.shields.io/badge/AlpineJS%20-%231572B6.svg?style=plastic&logo=alpinedotjs&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frameworks
@@ -72,6 +75,14 @@
   &emsp;
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple">
+  </a> 
+  &emsp;
+  <a href="https://livewire.laravel.com/" target="_blank">
+    <img alt="Livewire" src="https://img.shields.io/badge/-Laravel Livewire-purple">
+  </a> 
+  &emsp;
+  <a href="https://filamentphp.com/" target="_blank">
+    <img alt="Filament" src="https://img.shields.io/badge/-Filament PHP-purple">
   </a> 
 </p>
 
