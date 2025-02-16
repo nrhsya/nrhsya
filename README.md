@@ -85,6 +85,10 @@
   <a href="https://filamentphp.com/" target="_blank">
     <img alt="Filament" src="https://img.shields.io/badge/FilamentPHP%20-%23FFFF00.svg?style=plastic&logo=filament&logoColor=black">
   </a> 
+  &emsp;
+  <a href="https://filamentphp.com/" target="_blank">
+    <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS%20-%23FFFF00.svg?style=plastic&logo=tailwind&logoColor=black">
+  </a> 
 </p>
 
  ### 👉 Software & Tools
