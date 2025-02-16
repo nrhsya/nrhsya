@@ -16,11 +16,12 @@
 
 
 ## :sassy_man:  About me
-- 🧑‍💼: I’m a `Full Stack Web Developer` specializing in the `Laravel Framework`
+- 🧑‍💼 I’m a `Full Stack Web Developer` specializing in the `Laravel Framework`
 - :thinking: I’m currently open for: `Web Developer position` or a new `job opportunity`
 - :school: I am a graduate of University Malaysia Pahang Al-Sultan Abdullah
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I love web development and I am especially interested in `Laravel Frameworks`
+- 🗞️ Feel free to visit my personal website at (https://nurhasya.shop/).
 <!-- - :student: I’m currently learning: `Computer Science` and `Software Engineering`. -->
 <!-- this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
 - :nerd_face: Always `learning new things`
